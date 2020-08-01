@@ -41,7 +41,7 @@
 </ul>
 ]]></content>
       <categories>
-        <category>摄影</category>
+        <category>摄影学习</category>
       </categories>
       <tags>
         <tag>笔记</tag>
@@ -49,29 +49,52 @@
       </tags>
   </entry>
   <entry>
-    <title>猫猫-水族馆</title>
-    <url>/2020/07/05/%E7%8C%AB%E7%8C%AB-%E6%B0%B4%E6%97%8F%E9%A6%86/</url>
-    <content><![CDATA[<p><img src="https://doublecatlove-1258726600.cos.ap-beijing.myqcloud.com/%E7%8C%AB%E7%8C%AB/%E6%B0%B4%E6%97%8F%E9%A6%86/%E6%B0%B4%E6%97%8F%E9%A6%861.jpg" alt="猫猫"></p>
+    <title>摄影笔记-光线和场景</title>
+    <url>/2020/07/22/%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0-%E5%85%89%E7%BA%BF%E5%92%8C%E5%9C%BA%E6%99%AF/</url>
+    <content><![CDATA[<p>自然光：太阳作为主要光源，太阳高度和拍摄方向形成的角度变化决定光位</p>
+<p>顺光：正面光，均匀照射，影调比较柔和，立体效果比较差</p>
+<p>侧顺光：投射水平方向和镜头方向成45度左右，常用作塑性光，表现立体感，起到塑造造型的作用</p>
+<p>逆光：背面光。照亮轮廓，层次分明，容易拍出光斑和光晕。轻微脸黑可以通过打光或后期解决</p>
+<p>顶光：上方的光，不利于所塑造人物美光</p>
+<p>脚光：来自下方的光，产生非正常的造型，特殊情景使用</p>
+<p>避免强硬不自然的光：</p>
+<ul>
+<li>拍摄时间选择：避免中午</li>
+<li>注意光源方向。顺光和逆光的把控</li>
+<li>模特面部朝向及自己对于角度的把控</li>
+</ul>
+<p>室外拍摄时间段（晴天）：</p>
+<p>春天：7：00-9：00，15：00-17：00</p>
+<p>夏天：6：00-8：00，16：00-19：00</p>
+<p>秋天：7：00-10：00，14：00-17：00</p>
+<p>冬天：全天（阳光不强烈的话）</p>
+<p>阴天：阴天不用太多考虑光线，不是很暗都适合拍</p>
+<p>雨天：除非刻意，不然不适合拍</p>
+<p>拍摄好看的逆光：</p>
+<ul>
+<li>注意降低光圈</li>
+<li>太阳落山前最佳，这时候的逆光最柔和</li>
+<li>拍人像的话，尽可能选择侧逆光而不是全逆光</li>
+<li>后期可以适当提高面部亮度</li>
+</ul>
+<p>测光方式</p>
+<ul>
+<li><p>评价测光：平均计算，多用在顺光以及光度均匀的环境下</p>
+</li>
+<li><p>中央重点测光：中央测光后，周围测光平均加权。主体在中央且主体面积较大时使用（如特写）</p>
+</li>
+<li><p>局部测光：针对较小区域范围进行测光</p>
+</li>
+<li><p>点测光：范围集中，适合拍人像和微距</p>
+</li>
+</ul>
+<p>日系场景：学校、体育馆、天台、老街道、老社区、甜品店、游乐园、动物园、少年宫、大草坪、农牧场、日式小屋、水族馆、海边</p>
 ]]></content>
       <categories>
-        <category>摄影</category>
+        <category>摄影学习</category>
       </categories>
       <tags>
-        <tag>摄影</tag>
-        <tag>lolita</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奥森-猫猫-夜花千树</title>
-    <url>/2020/07/05/%E5%A5%A5%E6%A3%AE-%E5%A4%9C%E8%8A%B1%E5%8D%83%E6%A0%91/</url>
-    <content><![CDATA[<p><img src="https://doublecatlove-1258726600.cos.ap-beijing.myqcloud.com/psb.jpg" alt="猫猫"></p>
-]]></content>
-      <categories>
-        <category>摄影</category>
-      </categories>
-      <tags>
-        <tag>lolita</tag>
-        <tag>奥森</tag>
+        <tag>笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -114,13 +137,23 @@
 <p>MF：手动对焦</p>
 <p>白平衡（AWB）：相机拍出的颜色和肉眼看到的不一样，通过调整色温来还原白色</p>
 <p>RAW和JPG：RAW记录信息更多，文件大，后期空间大</p>
+<p>焦段：焦段越长，视角越窄，畸变越小</p>
+<p>抓拍：</p>
+<ol>
+<li><p>快门快一点（至少1/500</p>
+</li>
+<li><p>保证对焦（提前找好焦点，定点对焦</p>
+</li>
+<li><p>使用小光圈（拍清楚，4.0以下，别太小防止曝光不足</p>
+</li>
+</ol>
 ]]></content>
       <categories>
-        <category>摄影</category>
+        <category>摄影学习</category>
       </categories>
       <tags>
+        <tag>笔记</tag>
         <tag>摄影</tag>
-        <tag>学习笔记</tag>
       </tags>
   </entry>
   <entry>
@@ -150,6 +183,107 @@
       </tags>
   </entry>
   <entry>
+    <title>摄影笔记-日系与胶片</title>
+    <url>/2020/07/14/%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0-%E6%97%A5%E7%B3%BB/</url>
+    <content><![CDATA[<p>什么是日系：</p>
+<ul>
+<li>日光：最好在有太阳光的环境下</li>
+<li>日本：日本摄影师们的风格</li>
+<li>日常：拍摄内容为日常生活中的东西 </li>
+</ul>
+<p>摄影师推荐：滨田英明、川内伦子、川岛小鸟、奥山由之、熊谷贯、梅佳代</p>
+<p>保证每日审美</p>
+<p>胶片机的使用：</p>
+<ul>
+<li>胶片机的对焦、测光、档位设置均与数码相同</li>
+<li>拍完后打开后盖取出小心保存，中途开盖会漏光</li>
+</ul>
+<p>胶片基础：</p>
+<ul>
+<li>胶卷上方的数字代表ISO，固定不可调。日光卷（400度以下）、灯光卷（400-800）夜光卷（1000+）</li>
+<li>ISO越高，颗粒越细腻。颗粒也与环境光线有关</li>
+<li>一般拍出来的颜色偏盒子颜色。绿色尽量避免森林等深绿，黄色尽量避免枫叶等深黄</li>
+<li>普通安检没问题，机场托运安检不能过</li>
+<li>胶片如何保存：干燥阴暗处 </li>
+</ul>
+<p>电影卷和普通卷的区别：</p>
+<ul>
+<li><p>电影卷宽容度更高</p>
+</li>
+<li><p>电影卷颜色更浓郁一些</p>
+</li>
+</ul>
+<p>胶片作品也是摄影师后期经过调色的，仅作参考</p>
+<p>颜色=镜头+胶卷类型+冲扫工艺+后期调色</p>
+<p>冲扫</p>
+<ul>
+<li>诺日士：对比度较低，环境色偏暖</li>
+<li>SP3000：对比度比较强，风格化比较明显（性价比比较高）</li>
+<li>哈苏：宽容度较高</li>
+</ul>
+<p>冲扫流程：</p>
+<p>找到淘宝店铺。普通卷c41，电影卷EN2 </p>
+<p>格式看需求，一般标准jpg就行</p>
+<p>拍完后去除胶卷包裹好-&gt;协商委托单-&gt;快递寄出-&gt;下单并等待</p>
+]]></content>
+      <categories>
+        <category>摄影学习</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>摄影笔记-服装和妆容</title>
+    <url>/2020/07/18/%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0-%E6%9C%8D%E8%A3%85%E5%92%8C%E5%A6%86%E5%AE%B9/</url>
+    <content><![CDATA[<p>日系避免的服装颜色：紫色、粉色、荧光色、绿色</p>
+<p>经典颜色：红黄蓝</p>
+<p>JK制服：</p>
+<ul>
+<li>基础款 白衬衫 短袖 长袖 + 百褶裙</li>
+<li>水手服： 一本 二本 三本 长袖宽 短袖款</li>
+<li>配饰： 领巾（藏蓝、酒红、鲜红、白色、墨绿）、领绳（藏蓝、酒红、鲜红、墨绿）、领带领结（藏蓝、酒红、鲜红）</li>
+</ul>
+<p>日系服装风格：</p>
+<ul>
+<li>俏皮好玩。颜色丰富、神经病一样的搭配（代表例子：川岛小鸟</li>
+<li>温柔干净。干净温柔（代表例子：滨田英明</li>
+</ul>
+<p> 搭配要点：</p>
+<ul>
+<li><p>身上颜色不要超过三种</p>
+</li>
+<li><p>元素：波点、条纹、格子、各种简单花纹</p>
+</li>
+<li><p>制服：可以模仿写真搭配</p>
+</li>
+<li><p>鞋子和袜子：经典的有小白鞋、JK制服鞋、白色袜子</p>
+</li>
+</ul>
+<p>细节带入一定的故事性。平时的积累</p>
+<p>如何自己去搭配衣服：</p>
+<ul>
+<li>优先准备红黄蓝色系的衣服</li>
+<li>实在不会搭配，白色服装为基础进行搭配</li>
+<li>注意和环境搭配</li>
+<li>注意配饰，不要用力过猛显得杂乱</li>
+</ul>
+<p>日系妆容：</p>
+<ul>
+<li>腮红打的重，橘粉的腮红</li>
+<li>纯色，玫红色和粉红色，淡淡的西柚色或者豆沙色</li>
+<li>妆容保持干净整洁</li>
+<li>不要画眼线，眼妆大地色或者橘色，不要选粉红色、上下都刷</li>
+</ul>
+]]></content>
+      <categories>
+        <category>摄影学习</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>论摄影-读书笔记</title>
     <url>/2020/07/06/%E8%AE%BA%E6%91%84%E5%BD%B1-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h3 id="在柏拉图的洞穴里"><a href="#在柏拉图的洞穴里" class="headerlink" title="在柏拉图的洞穴里"></a>在柏拉图的洞穴里</h3><blockquote>
@@ -165,11 +299,12 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>摄影</category>
+        <category>摄影学习</category>
+        <category>读书笔记</category>
       </categories>
       <tags>
         <tag>笔记</tag>
-        <tag>摄影</tag>
+        <tag>图书</tag>
       </tags>
   </entry>
 </search>
